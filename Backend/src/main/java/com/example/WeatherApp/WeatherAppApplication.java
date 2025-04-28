@@ -8,6 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 public class WeatherAppApplication {
 
+	// This is the main file for weather app
 	public static void main(String[] args) {
 		SpringApplication.run(WeatherAppApplication.class, args);
 	}
